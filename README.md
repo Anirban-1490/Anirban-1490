@@ -3,7 +3,7 @@ Hello , I’m Anirban
 I’m interested in Software Development and also in CP
 
 Currently learning C++ ,
-Also have completed C#
+Also i have completed C#
 
 
 <!---
