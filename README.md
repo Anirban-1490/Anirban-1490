@@ -1,9 +1,9 @@
 Hello , I’m Anirban
 
-I’m interested in Software Development and also in CP
+and
 
-Currently learning C++ ,
-Also i have completed C#
+Just a beginner
+
 
 
 <!---
