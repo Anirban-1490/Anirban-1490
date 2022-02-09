@@ -62,7 +62,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirban-1490&show_icons=true&locale=en" alt="anirban-1490" /></p>
 
+<div align="left">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirban-1490&theme=dark" alt="anirban-1490" /></p>
+  </div>
 
+[![Anirban Pratihar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anirban-1490&theme=xcode)](https://git.io/Anirban-1490)
 
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
