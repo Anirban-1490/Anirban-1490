@@ -17,7 +17,7 @@
 
 - ## I’m currently working on ⬆️ UPLIST 
 
-- 🌱 I’m currently learning Node 
+- 🌱 I’m currently learning Express 
 
 - 👯 I’m looking to collaborate on Projects 
 
