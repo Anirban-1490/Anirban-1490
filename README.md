@@ -17,7 +17,7 @@
 
 - ## I’m currently working on ⬆️ UPLIST 
 
-- 🌱 I’m currently learning Express 
+- 🌱 I’m currently learning Express/Mongoose/REST
 
 - 👯 I’m Currently Contributing on Girlscript Summer of Code
 
