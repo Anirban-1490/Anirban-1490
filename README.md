@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning Express 
 
-- 👯 I’m looking to collaborate on Projects 
+- 👯 I’m Currently Contributing on Girlscript Summer of Code
 
 
 
