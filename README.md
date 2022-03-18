@@ -58,7 +58,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirban-1490" alt="anirban-1490" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirban-1490&show_icons=true&locale=en&layout=compact" alt="anirban-1490" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirban-1490&show_icons=true&locale=en&layout=compact&hide=php" alt="anirban-1490" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirban-1490&show_icons=true&locale=en" alt="anirban-1490" /></p>
 
