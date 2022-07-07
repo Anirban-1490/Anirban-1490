@@ -27,7 +27,7 @@
 
 <h2> Skills </h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,html,css,js,nodejs,express,mongodb,react,git,ps,figma,dotnet)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,html,css,js,nodejs,express,mongodb,react,next,git,ps,figma,dotnet)](https://skills.thijs.gg)
 
 <h2> Connect with me  </h2>
 <a href = 'https://www.linkedin.com/in/anirban-pratihar-48a591226'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
