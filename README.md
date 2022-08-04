@@ -16,9 +16,9 @@
 
 - ## I’m currently working on ⬆️ UPLIST 
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js and Sass
 
-- 👯 I’m Currently Contributing on Girlscript Summer of Code
+- 👯 I’m currently looking for new opportunity/open-source projects to work on
 
 
 
@@ -26,8 +26,11 @@
 
 <h2> Skills </h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,html,css,js,nodejs,express,mongodb,react,next,git,ps,figma,dotnet)](https://skills.thijs.gg)
+---
 
+ [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,html,css,scss,js,nodejs,express,mongodb,react,next,git,ps,figma,dotnet)](https://skills.thijs.gg)
+
+---
 <h2> Connect with me  </h2>
 <a href = 'https://www.linkedin.com/in/anirban-pratihar-48a591226'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/Anirban45555'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
@@ -35,6 +38,7 @@
 <a href="https://codepen.io/noob460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="noob460" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anirban_45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anirban_45" height="30" width="40" /></a>
 
+---
 
 
 <h2> My GitHub Stats  </h2>
@@ -42,15 +46,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirban-1490" alt="anirban-1490" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirban-1490&show_icons=true&locale=en&layout=compact&hide=php" alt="anirban-1490" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirban-1490&show_icons=true&locale=en&layout=compact&hide=php" alt="anirban-1490" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirban-1490&show_icons=true&locale=en" alt="anirban-1490" /></p>
+<p aligh="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirban-1490&show_icons=true&locale=en" alt="anirban-1490" /></p>
 
-<div align="left">
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirban-1490&theme=dark" alt="anirban-1490" /></p>
   </div>
+  
+  ---
 
 [![Anirban Pratihar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anirban-1490&theme=dracula&hide_border=true)](https://git.io/Anirban-1490)
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
