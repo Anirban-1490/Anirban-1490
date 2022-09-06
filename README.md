@@ -26,7 +26,13 @@
 
 ---
 
- [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,html,css,scss,js,nodejs,express,mongodb,react,next,git,ps,figma,dotnet)](https://skills.thijs.gg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,scss,js,nodejs,express,mongodb,react,next,git,ps,figma,dotnet&perline=8" />
+    <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img size="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
+  </a>
+</p>
+
 
 ---
 <h2 align="center"> Connect with me  </h2>
