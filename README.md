@@ -14,7 +14,7 @@
 
 
 
-- ## I’m currently working on ⬆️ UPLIST 
+- ## I’m currently working on ⬇️ DOWNLIST
 
 - 🌱 I’m currently learning Next.js and Sass
 
