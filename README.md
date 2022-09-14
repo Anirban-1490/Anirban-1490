@@ -63,7 +63,7 @@
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirban-1490&theme=dark" alt="anirban-1490" /></p> 
 
 
-  <p align="center"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirban-1490&show_icons=true&locale=en&layout=compact&hide=php" alt="anirban-1490" /></p>
+  <p align="center"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirban-1490&show_icons=true&locale=en&layout=compact&hide=php&theme=nightowl" alt="anirban-1490" /></p>
   
 -------------------
 
