@@ -68,6 +68,6 @@
 -------------------
 
 
-[![Anirban Pratihar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anirban-1490&theme=dracula&hide_border=true)](https://git.io/Anirban-1490)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Anirban-1490&bg_color=000000&color=b59bfd&line=d256ca&point=f7abee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
