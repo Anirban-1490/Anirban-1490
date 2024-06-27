@@ -7,18 +7,16 @@
 
 
 </p>
-<div size='20px'> Hi! My name is <h3>Anirban Pratihar</h3> Just a beginner WEB DEVELOPER and currently on Frontend but learning Backend now. Thank You
+<div size='20px'> Hi! My name is <h3>Anirban Pratihar</h3>Frontend developer with Internship experiance. Used tech stack - Next JS, SCSS, MUI, Typescript, Supabase Client, AMP pages
 </div>
 
 <h2> About Me </h2>
 
 
 
-- ## I’m currently working on ⬇️ DOWNLIST
+- ## I’m working on ⬇️ DOWNLIST (Personal Project, On Hold)
 
-- 🌱 I’m currently learning Next.js and Sass
-
-- 👯 I’m currently looking for new opportunity/open-source projects to work on
+- 🌱 I’m currently learning Firebase and Storybook JS
 
 <br>
 
@@ -28,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,scss,js,nodejs,express,mongodb,react,next,jest,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,scss,js,react,next,firebase,tailwind,graphql,jest,git&perline=7" />
 <!--     <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img size="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> -->
   </a>
 </p>
@@ -67,7 +65,5 @@
   
 -------------------
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Anirban-1490&bg_color=000000&color=b59bfd&line=d256ca&point=f7abee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
