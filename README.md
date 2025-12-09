@@ -14,7 +14,7 @@
 
 
 
-- ## I’m working on CarrerTOP
+- ## I’m working on CareerTOP
 
 - 🌱 I’m currently learning Firebase and Storybook JS
 
