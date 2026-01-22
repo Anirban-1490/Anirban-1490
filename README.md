@@ -7,7 +7,7 @@
 
 
 </p>
-<div size='20px'> Hi! My name is <h3>Anirban Pratihar</h3>Frontend developer with Internship experiance. Used tech stack - Next JS, SCSS, MUI, Typescript, Supabase Client, AMP pages
+<div size='20px'> Hi! My name is <h3>Anirban Pratihar</h3>Frontend developer with 8 months of FULLTIME experiance. Used tech stack - React/Vite, Next JS, SCSS, MUI, Typescript, Supabase Client, Tailwind CSS , Zustand
 </div>
 
 <h2> About Me </h2>
