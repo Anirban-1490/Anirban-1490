@@ -17,7 +17,7 @@
 
 - ## I’m working on CareerTOP
 
-- 🌱 I’m currently learning Firebase and Storybook JS
+- 🌱 I’m currently learning Storybook JS and some other Skills to help my frontend journey, like Docker, AWS 
 
 <br>
 
