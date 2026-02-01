@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,scss,js,react,next,firebase,tailwind,graphql,jest,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,next,firebase,tailwind,graphql,jest,git&perline=7" />
 <!--     <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img size="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> -->
   </a>
 </p>
