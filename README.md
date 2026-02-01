@@ -12,7 +12,7 @@
 
 <h2> About Me </h2>
 
-</p> RESUME -  (https://github.com/user-attachments/files/24988912/ANIRBAN-PRATIHAR-FlowCV-Resume-20251222.pdf)
+### RESUME -  (https://github.com/user-attachments/files/24988912/ANIRBAN-PRATIHAR-FlowCV-Resume-20251222.pdf)
 
 
 - ## I’m working on CareerTOP
