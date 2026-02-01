@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban-1490&label=Profile%20views&color=0e75b6&style=flat" alt="anirban-1490" /> </p>
 
 
-</p>[ANIRBAN-PRATIHAR-FlowCV-Resume-20251222.pdf](https://github.com/user-attachments/files/24988912/ANIRBAN-PRATIHAR-FlowCV-Resume-20251222.pdf)
 
 <div size='20px'> Hi! My name is <h3>Anirban Pratihar</h3>Frontend developer with 8 months of FULLTIME experiance. Used tech stack - React/Vite, Next JS, SCSS, MUI, Typescript, Supabase Client, Tailwind CSS , Zustand
 </div>
 
 <h2> About Me </h2>
 
+</p> RESUME -  (https://github.com/user-attachments/files/24988912/ANIRBAN-PRATIHAR-FlowCV-Resume-20251222.pdf)
 
 
 - ## I’m working on CareerTOP
