@@ -53,10 +53,6 @@
 
 <br>
 
-<p align="center" > <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"  src="https://github-profile-trophy.vercel.app/?username=anirban-1490&theme=dracula&title=Stars,Commit,Issues,Repositories,PullRequest&row=2&column=3" alt="anirban-1490" /></a> </p>
-
-
-
 
 
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirban-1490&theme=dark" alt="anirban-1490" /></p> 
